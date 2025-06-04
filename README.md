@@ -7,7 +7,7 @@ Domain: Data Science
 Duration: 4 Weeks
 Mentor: Neela Santhosh
 
-# 🧠 Task 1 – Data Pipeline Development
+# Task 1 – Data Pipeline Development
 
 ## Overview
 
