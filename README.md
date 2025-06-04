@@ -99,6 +99,10 @@ All visualizations are saved in the 'DATA-PIPELINE-DEVELOPMENT' folder.
 - `personality_etl_pipeline.ipynb` – ETL pipeline notebook
 - `personality_dataset_cleaned.csv` – Cleaned dataset
 - 'DATA-PIPELINE-DEVELOPMENT' – Contains all visualizations in `.png` format
+- ![Image](https://github.com/user-attachments/assets/b2c97352-44d9-45f8-a7e3-ed3c2467cf07)
+- ![Image](https://github.com/user-attachments/assets/71b55606-2ccc-4b37-9817-b3560399e534)
+- ![Image](https://github.com/user-attachments/assets/bb798175-2f26-442c-9493-8511a06c2c37)
+- ![Image](https://github.com/user-attachments/assets/2451b747-0f20-4439-a8f6-3d254f3bfff6)
 
 ---
 
